@@ -8,7 +8,7 @@
 🔹 Exploring NLP & data analysis for impactful solutions  
 
 💡 What I Love  
-✨ Machine Learning – The possibilities excite me!  
+✨ Machine Learning – The possibilities excite me! 
 ✨ Problem-Solving – I enjoy tackling coding challenges in C++  
 ✨ Web Development – Creating intuitive & data-driven applications  
 
